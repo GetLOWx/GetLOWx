@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GetLOWx
+- 👋 Hi, I’m Vaib
 - 👀 I’m interested in NFT's & Web3
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web3 projects 
